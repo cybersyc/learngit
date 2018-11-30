@@ -3,3 +3,5 @@ git is free software
 what a pretty boy!
 what a nice day!
 what is your major?
+git tracks changes of files.
+
